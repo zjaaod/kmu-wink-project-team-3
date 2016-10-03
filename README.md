@@ -2,4 +2,4 @@
 
 This is project of KMU WinK
 
-진예진 참여
+Yejin, participate in project
